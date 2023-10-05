@@ -3,9 +3,9 @@
     "title": "Introduction",
     "theme": {
       "toc": false
-
     }
-
-
+  },
+  "projects": {
+    "title": "Projects"
   }
 }
